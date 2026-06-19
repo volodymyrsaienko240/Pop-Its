@@ -1,8 +1,8 @@
 # Pop-It's
 
-## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-21/Pop-It's/index.html
+## Portfolio: https://volodymyrsaienko240.github.io/Portfolio-3/sites/site-21/Pop-It's/index.html
 
-## Codepen: https://codepen.io/vladimirsaenko/pen/OJpGEBY
+## Codepen: https://codepen.io/volodymyrsaienko240/pen/OJpGEBY
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/132561471-e027b314-73ad-4b01-bef6-f467552a534d.jpg)
 <!-- ![pop-it-fidget-1](https://user-images.githubusercontent.com/56477695/122687641-341c7a00-d220-11eb-8abb-e270bb9f2d51.jpg)
